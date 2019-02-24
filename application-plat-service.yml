@@ -18,7 +18,7 @@ eureka:
 spring:
   profiles: test
   application:
-    name: employee-provider
+    name: employee-provider-test
 server:
   port: 8002
 eureka:
